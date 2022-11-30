@@ -1,5 +1,7 @@
 # golang-learning
 
+Learning Targets
+
 **Part-A: Introduction and Deep-Dive ** 
 *	Go programming language and its core fundamentals.
 * Package ecosystem and tooling.
